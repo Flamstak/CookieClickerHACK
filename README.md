@@ -39,6 +39,4 @@ Ten skrypt automatyzuje rozgrywkę w popularnej grze przeglądarkowej "Cookie Cl
 Korzystaj z tego skryptu odpowiedzialnie i zgodnie z regulaminem gry. Nadmierne lub zautomatyzowane klikanie może naruszać zasady gry.
 
 ## Autor
-[Twoje Imię]
-
-Dostosuj README według własnych preferencji, dodając dodatkowe informacje lub instrukcje.
+Flamstak
