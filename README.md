@@ -29,7 +29,7 @@ Ten skrypt automatyzuje rozgrywkę w popularnej grze przeglądarkowej "Cookie Cl
 2. Otwórz grę "Cookie Clicker" w przeglądarce internetowej.
 
 ### Uruchomienie z pliku wykonywalnego:
-1. Pobierz plik wykonywalny z [linku do pliku exe](#).
+1. Pobierz plik wykonywalny z [linku do pliku exe]([#](https://github.com/Flamstak/CookieClickerHACK/releases/tag/exe)).
 2. Uruchom plik exe.
 3. Otwórz grę "Cookie Clicker" w przeglądarce internetowej.
 
