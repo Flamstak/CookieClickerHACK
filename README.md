@@ -3,6 +3,10 @@
 ## Opis
 Ten skrypt automatyzuje rozgrywkę w popularnej grze przeglądarkowej "Cookie Clicker", korzystając z narzędzia Selenium. Skrypt jest zaprojektowany do gry w języku polskim.
 
+<p align="center">
+  <img src="ciastko.png" alt="Opis zdjecia" width="400"/>
+</p>
+
 ## Wymagania
 - Python 3.x
 - Selenium
@@ -28,6 +32,10 @@ Ten skrypt automatyzuje rozgrywkę w popularnej grze przeglądarkowej "Cookie Cl
 1. Pobierz plik wykonywalny z [linku do pliku exe](#).
 2. Uruchom plik exe.
 3. Otwórz grę "Cookie Clicker" w przeglądarce internetowej.
+
+<p align="center">
+  <img src="ss.png" alt="Opis zdjecia" width="900"/>
+</p>
 
 ## Szczegóły Skryptu
 - Skrypt otwiera grę w domyślnej przeglądarce internetowej i ustawia język na polski.
